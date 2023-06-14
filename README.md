@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfv10&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## Things I Code With
+##  💻  Things I Code With
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,5 +24,4 @@
   <img align="center" alt="git" src="https://img.shields.io/badge/-Git-f70c0c?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-
+I'm a 19-year-old student pursuing a degree in Information Systems at the Center for Informatics (CIn) at UFPE (Universidade Federal de Pernambuco). I have a passion for programming and enjoy diving into the world of coding. Currently, I'm eagerly seeking my first job opportunity in the field, ready to apply my skills and knowledge to real-world projects. With a strong foundation in languages like Python and JavaScript, I'm dedicated to continuous learning and embracing new technological trends. Let's connect and build an exciting digital future together!
