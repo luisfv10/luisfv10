@@ -1,5 +1,7 @@
 ## Hi devs! I am Luis Filipe ✋
 
+I'm a 19-year-old student pursuing a degree in Information Systems at the Centro de Informatica (CIn) at UFPE (Universidade Federal de Pernambuco). I have a passion for programming and enjoy diving into the world of coding. With a strong foundation in languages like Python and JavaScript, I'm dedicated to continuous learning and embracing new technological trends. Let's connect and build an exciting digital future together!
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_luis.fv)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_luisfv)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfilipepascoal/)
@@ -8,7 +10,7 @@
 
 <div >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfv10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfv10&layout=compact&langs_count=7&theme=radical"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfv10&layout=compact&langs_count=7&theme=radical"/> -->
 </div>
 
 ##  💻  Things I Code With
@@ -23,5 +25,3 @@
   <img align="center" alt="Jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-FF6000?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img align="center" alt="git" src="https://img.shields.io/badge/-Git-f70c0c?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
-
-I'm a 19-year-old student pursuing a degree in Information Systems at the Center for Informatics (CIn) at UFPE (Universidade Federal de Pernambuco). I have a passion for programming and enjoy diving into the world of coding. Currently, I'm eagerly seeking my first job opportunity in the field, ready to apply my skills and knowledge to real-world projects. With a strong foundation in languages like Python and JavaScript, I'm dedicated to continuous learning and embracing new technological trends. Let's connect and build an exciting digital future together!
